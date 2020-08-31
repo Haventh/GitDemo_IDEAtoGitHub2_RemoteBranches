@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("测试1_在分支");
 		System.out.println("测试1_在分支2");
 		System.out.println("测试1_在分支3");
+		System.out.println("测试1_在分支4");
 	}
 
 }
